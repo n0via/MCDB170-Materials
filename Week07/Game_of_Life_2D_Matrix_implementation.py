@@ -1,5 +1,5 @@
 # This script does not run in JupyterLab.
-# Download the Thonny editor from "Thonny.org".
+# Download and install the Thonny editor from "Thonny.org".
 # Install "numpy" and "matplotlib" in the "Tools->Manage packages..." menu.
 # Then run this script in the Thonny editor.
 

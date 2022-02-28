@@ -1,7 +1,7 @@
 # This script does not run in JupyterLab.
 # Download the Thonny editor from "Thonny.org".
 # Install "numpy" and "matplotlib" in the "Tools->Manage packages..." menu.
-# Then run this code in the Thonny editor.
+# Then run this script in the Thonny editor.
 
 import numpy as np
 import matplotlib.pyplot as plt
